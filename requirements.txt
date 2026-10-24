@@ -1,0 +1,6 @@
+aiogram>=3.22.0
+kurigram
+py-tgcalls
+tgcrypto
+phonenumbers
+cryptography
