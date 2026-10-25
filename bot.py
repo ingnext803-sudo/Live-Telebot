@@ -30,7 +30,7 @@ from pytgcalls.types import MediaStream
 
 # ============================== CONFIG ==============================
 # >>>>>>>>>>>>>>>>>>>>  YAHAN APNI DETAILS DAALO  <<<<<<<<<<<<<<<<<<<<
-BOT_TOKEN = "8473083394:AAHhhcF6Z2AqffgDq-I0stNPySo67UiTkDQ"          # @BotFather se mila token (quotes ke andar)
+BOT_TOKEN = "8911012535:AAGHVSwv3KqH9LUUcvyt7rmOOQ_hwEt7zrE"          # @BotFather se mila token (quotes ke andar)
 API_ID = 30954067                                # my.telegram.org se API ID (sirf number, quotes nahi)
 API_HASH = "14b365d5ed5bc10b0379a4c9a31be351"            # my.telegram.org se API Hash (quotes ke andar)
 OWNER_IDS = [8390645989]                   # Aapka Chat ID (@userinfobot se mil jata hai). Multiple: [111, 222]
