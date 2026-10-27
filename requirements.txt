@@ -1,6 +1,6 @@
-aiogram>=3.22.0
+aiogram>=3.25
 kurigram
 py-tgcalls
 tgcrypto
-phonenumbers
 cryptography
+python-dotenv
