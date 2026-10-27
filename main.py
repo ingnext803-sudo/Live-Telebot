@@ -37,10 +37,10 @@ logging.basicConfig(level=logging.INFO)
 log = logging.getLogger("bot")
 
 # ====== আপনার কনফিগ (এখানেই বসানো আছে) ======
-BOT_TOKEN = os.environ.get("BOT_TOKEN") or "8925308973:AAFfe61fUPQYDCAWfcrssBV28Ib-J7hZRaA"
+BOT_TOKEN = os.environ.get("BOT_TOKEN") or "8929246236:AAEqDfYPGFxe7i4k_AfXlM2Ev-V8Bg389q4"
 API_ID = int(os.environ.get("API_ID") or 33680093)
 API_HASH = os.environ.get("API_HASH") or "c6c802e0811240f1d1b46c730ba0a856"
-OWNER_ID = int(os.environ.get("OWNER_ID") or 8906782967)
+OWNER_ID = int(os.environ.get("OWNER_ID") or 8815360015)
 TZ_H = float(os.environ.get("TZ_OFFSET", "6"))   # display timezone (6 = Bangladesh)
 START_TS = time.time()
 CONTACT = os.environ.get("ADMIN_CONTACT", "")   # e.g. @yourusername  (shown to closed users)
